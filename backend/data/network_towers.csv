@@ -1,0 +1,101 @@
+tower_code,tower_name,city,state,network_type,latitude,longitude,status
+TWR0001,Kolkata Tower 1,Kolkata,West Bengal,5G,15.955855,80.595867,Active
+TWR0002,Bengaluru Tower 2,Bengaluru,Karnataka,5G,14.881097,76.288183,Maintenance
+TWR0003,Mumbai Tower 3,Mumbai,Maharashtra,4G,19.568343,94.698249,Maintenance
+TWR0004,Hyderabad Tower 4,Hyderabad,Telangana,5G,29.049607,93.163826,Active
+TWR0005,Kolkata Tower 5,Kolkata,West Bengal,4G,31.609846,74.596191,Inactive
+TWR0006,Lucknow Tower 6,Lucknow,Uttar Pradesh,5G,17.503844,77.466381,Maintenance
+TWR0007,Kolkata Tower 7,Kolkata,West Bengal,5G,31.767597,69.869734,Inactive
+TWR0008,Bengaluru Tower 8,Bengaluru,Karnataka,4G,32.292568,91.196783,Inactive
+TWR0009,Delhi Tower 9,Delhi,Delhi,4G,20.410903,95.78142,Maintenance
+TWR0010,Hyderabad Tower 10,Hyderabad,Telangana,5G,27.8094,70.842877,Maintenance
+TWR0011,Bengaluru Tower 11,Bengaluru,Karnataka,5G,34.800562,71.619104,Inactive
+TWR0012,Jaipur Tower 12,Jaipur,Rajasthan,4G,21.834795,96.442956,Maintenance
+TWR0013,Jaipur Tower 13,Jaipur,Rajasthan,4G,30.89961,88.15295,Maintenance
+TWR0014,Jaipur Tower 14,Jaipur,Rajasthan,5G,21.119265,88.780088,Maintenance
+TWR0015,Bengaluru Tower 15,Bengaluru,Karnataka,4G,22.011818,88.824708,Active
+TWR0016,Mumbai Tower 16,Mumbai,Maharashtra,4G,18.883909,68.217121,Inactive
+TWR0017,Ahmedabad Tower 17,Ahmedabad,Gujarat,4G,20.93448,93.947179,Inactive
+TWR0018,Jaipur Tower 18,Jaipur,Rajasthan,5G,12.177018,80.787311,Active
+TWR0019,Mumbai Tower 19,Mumbai,Maharashtra,4G,13.081412,86.316512,Active
+TWR0020,Chennai Tower 20,Chennai,Tamil Nadu,5G,10.843645,95.206828,Maintenance
+TWR0021,Lucknow Tower 21,Lucknow,Uttar Pradesh,5G,18.988693,96.199675,Inactive
+TWR0022,Pune Tower 22,Pune,Maharashtra,5G,20.384095,77.421674,Inactive
+TWR0023,Mumbai Tower 23,Mumbai,Maharashtra,4G,21.363955,82.782236,Active
+TWR0024,Jaipur Tower 24,Jaipur,Rajasthan,4G,31.823158,75.484047,Maintenance
+TWR0025,Pune Tower 25,Pune,Maharashtra,4G,11.702914,89.519558,Active
+TWR0026,Chennai Tower 26,Chennai,Tamil Nadu,5G,34.302332,80.571357,Maintenance
+TWR0027,Ahmedabad Tower 27,Ahmedabad,Gujarat,4G,24.840574,79.883091,Inactive
+TWR0028,Ahmedabad Tower 28,Ahmedabad,Gujarat,4G,34.097952,91.101185,Maintenance
+TWR0029,Ahmedabad Tower 29,Ahmedabad,Gujarat,4G,27.830302,95.317238,Active
+TWR0030,Lucknow Tower 30,Lucknow,Uttar Pradesh,4G,18.636533,85.497481,Maintenance
+TWR0031,Pune Tower 31,Pune,Maharashtra,4G,14.106391,74.182428,Active
+TWR0032,Lucknow Tower 32,Lucknow,Uttar Pradesh,4G,9.765348,89.03231,Inactive
+TWR0033,Lucknow Tower 33,Lucknow,Uttar Pradesh,5G,17.495211,79.001138,Maintenance
+TWR0034,Jaipur Tower 34,Jaipur,Rajasthan,4G,12.134892,88.663252,Maintenance
+TWR0035,Jaipur Tower 35,Jaipur,Rajasthan,4G,17.614183,90.124417,Active
+TWR0036,Chennai Tower 36,Chennai,Tamil Nadu,4G,18.472123,82.154087,Active
+TWR0037,Bengaluru Tower 37,Bengaluru,Karnataka,4G,32.149752,69.072092,Inactive
+TWR0038,Hyderabad Tower 38,Hyderabad,Telangana,4G,12.983995,72.340632,Maintenance
+TWR0039,Chennai Tower 39,Chennai,Tamil Nadu,5G,21.353735,72.617596,Maintenance
+TWR0040,Lucknow Tower 40,Lucknow,Uttar Pradesh,5G,18.368748,77.8192,Inactive
+TWR0041,Mumbai Tower 41,Mumbai,Maharashtra,4G,20.545728,71.411863,Maintenance
+TWR0042,Hyderabad Tower 42,Hyderabad,Telangana,5G,21.591889,75.83078,Maintenance
+TWR0043,Jaipur Tower 43,Jaipur,Rajasthan,4G,22.358715,76.752736,Active
+TWR0044,Pune Tower 44,Pune,Maharashtra,5G,34.135776,82.702057,Inactive
+TWR0045,Chennai Tower 45,Chennai,Tamil Nadu,5G,27.004568,83.239687,Active
+TWR0046,Ahmedabad Tower 46,Ahmedabad,Gujarat,5G,26.052916,85.038708,Maintenance
+TWR0047,Hyderabad Tower 47,Hyderabad,Telangana,4G,29.104035,78.230089,Inactive
+TWR0048,Ahmedabad Tower 48,Ahmedabad,Gujarat,4G,27.732613,68.166208,Active
+TWR0049,Pune Tower 49,Pune,Maharashtra,4G,8.67303,78.677665,Inactive
+TWR0050,Mumbai Tower 50,Mumbai,Maharashtra,5G,27.050142,83.732819,Inactive
+TWR0051,Lucknow Tower 51,Lucknow,Uttar Pradesh,5G,17.717983,73.654229,Maintenance
+TWR0052,Bengaluru Tower 52,Bengaluru,Karnataka,4G,23.530086,82.53227,Maintenance
+TWR0053,Delhi Tower 53,Delhi,Delhi,5G,15.110301,87.360778,Maintenance
+TWR0054,Chennai Tower 54,Chennai,Tamil Nadu,5G,14.352124,69.21611,Inactive
+TWR0055,Chennai Tower 55,Chennai,Tamil Nadu,5G,19.756728,80.857923,Inactive
+TWR0056,Delhi Tower 56,Delhi,Delhi,4G,28.209515,92.197297,Active
+TWR0057,Hyderabad Tower 57,Hyderabad,Telangana,5G,20.743564,87.293491,Inactive
+TWR0058,Kolkata Tower 58,Kolkata,West Bengal,4G,15.43744,91.770006,Active
+TWR0059,Kolkata Tower 59,Kolkata,West Bengal,4G,12.9325,73.773752,Maintenance
+TWR0060,Mumbai Tower 60,Mumbai,Maharashtra,4G,31.852888,80.11649,Active
+TWR0061,Lucknow Tower 61,Lucknow,Uttar Pradesh,5G,32.877171,88.90333,Active
+TWR0062,Ahmedabad Tower 62,Ahmedabad,Gujarat,4G,12.483297,79.483429,Inactive
+TWR0063,Kolkata Tower 63,Kolkata,West Bengal,4G,32.527156,79.61413,Inactive
+TWR0064,Hyderabad Tower 64,Hyderabad,Telangana,5G,21.579699,72.760352,Active
+TWR0065,Lucknow Tower 65,Lucknow,Uttar Pradesh,5G,31.590182,80.994421,Inactive
+TWR0066,Ahmedabad Tower 66,Ahmedabad,Gujarat,4G,19.309392,88.977792,Inactive
+TWR0067,Lucknow Tower 67,Lucknow,Uttar Pradesh,4G,18.116125,90.828869,Active
+TWR0068,Delhi Tower 68,Delhi,Delhi,4G,10.32748,95.075143,Maintenance
+TWR0069,Delhi Tower 69,Delhi,Delhi,4G,9.532967,82.208262,Inactive
+TWR0070,Delhi Tower 70,Delhi,Delhi,4G,9.52181,71.70718,Maintenance
+TWR0071,Delhi Tower 71,Delhi,Delhi,4G,12.906785,93.721565,Active
+TWR0072,Mumbai Tower 72,Mumbai,Maharashtra,5G,26.505919,73.888497,Maintenance
+TWR0073,Bengaluru Tower 73,Bengaluru,Karnataka,5G,8.064121,79.811654,Maintenance
+TWR0074,Jaipur Tower 74,Jaipur,Rajasthan,5G,36.394869,85.32645,Maintenance
+TWR0075,Kolkata Tower 75,Kolkata,West Bengal,4G,28.443825,87.394234,Active
+TWR0076,Pune Tower 76,Pune,Maharashtra,5G,29.271393,86.223306,Active
+TWR0077,Jaipur Tower 77,Jaipur,Rajasthan,5G,31.697721,81.113024,Active
+TWR0078,Bengaluru Tower 78,Bengaluru,Karnataka,5G,30.189839,82.47299,Maintenance
+TWR0079,Mumbai Tower 79,Mumbai,Maharashtra,4G,24.072834,87.249025,Active
+TWR0080,Mumbai Tower 80,Mumbai,Maharashtra,5G,31.701309,71.605078,Active
+TWR0081,Lucknow Tower 81,Lucknow,Uttar Pradesh,5G,32.299924,85.243695,Inactive
+TWR0082,Mumbai Tower 82,Mumbai,Maharashtra,5G,19.044637,86.833988,Maintenance
+TWR0083,Hyderabad Tower 83,Hyderabad,Telangana,5G,8.769505,83.204646,Maintenance
+TWR0084,Lucknow Tower 84,Lucknow,Uttar Pradesh,4G,13.883368,90.379481,Inactive
+TWR0085,Jaipur Tower 85,Jaipur,Rajasthan,4G,19.330169,79.128566,Active
+TWR0086,Ahmedabad Tower 86,Ahmedabad,Gujarat,5G,32.135935,69.130161,Inactive
+TWR0087,Hyderabad Tower 87,Hyderabad,Telangana,5G,8.108275,69.258573,Active
+TWR0088,Kolkata Tower 88,Kolkata,West Bengal,5G,34.416108,95.992649,Active
+TWR0089,Lucknow Tower 89,Lucknow,Uttar Pradesh,5G,22.156028,90.743028,Inactive
+TWR0090,Ahmedabad Tower 90,Ahmedabad,Gujarat,4G,23.905392,80.186413,Inactive
+TWR0091,Ahmedabad Tower 91,Ahmedabad,Gujarat,5G,29.378399,71.147498,Inactive
+TWR0092,Kolkata Tower 92,Kolkata,West Bengal,5G,13.50141,80.374076,Inactive
+TWR0093,Bengaluru Tower 93,Bengaluru,Karnataka,5G,32.060712,78.007908,Active
+TWR0094,Delhi Tower 94,Delhi,Delhi,5G,19.162595,84.314423,Active
+TWR0095,Kolkata Tower 95,Kolkata,West Bengal,5G,18.656605,70.607486,Maintenance
+TWR0096,Kolkata Tower 96,Kolkata,West Bengal,5G,18.327376,90.761276,Inactive
+TWR0097,Hyderabad Tower 97,Hyderabad,Telangana,4G,19.770324,95.640876,Inactive
+TWR0098,Hyderabad Tower 98,Hyderabad,Telangana,4G,25.757373,86.909252,Maintenance
+TWR0099,Jaipur Tower 99,Jaipur,Rajasthan,5G,9.195082,80.564364,Maintenance
+TWR0100,Lucknow Tower 100,Lucknow,Uttar Pradesh,5G,34.57739,77.140378,Active

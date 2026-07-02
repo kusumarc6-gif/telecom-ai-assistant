@@ -1,0 +1,9 @@
+{
+  "network": {
+    "provider": "ABC Telecom",
+    "technology": "5G",
+    "bandwidth": "1Gbps",
+    "latency": "15ms",
+    "coverage": "National"
+  }
+}

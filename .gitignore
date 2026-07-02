@@ -1,0 +1,15 @@
+# Environment
+.env
+backend/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Vector DB
+backend/faiss_index/
+backend/chroma_db/

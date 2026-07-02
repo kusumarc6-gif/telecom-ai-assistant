@@ -1,0 +1,101 @@
+engineer_name,employee_id,specialization,mobile_number,email,assigned_region,status
+Ishaan Sarma,EMP0001,Fiber Installation,9375863182,nitara63@example.org,Mumbai,Inactive
+Fariq Bhasin,EMP0002,Broadband Maintenance,9434082662,divya03@example.com,Pune,Active
+Viraj Prakash,EMP0003,Network Support,9852657861,fariq44@example.net,Bengaluru,Inactive
+Jagat Morar,EMP0004,Broadband Maintenance,9023397543,mborra@example.org,Bengaluru,Inactive
+Quincy Singh,EMP0005,Field Support,9707922610,rdate@example.net,Chennai,On Leave
+Kalpit Gole,EMP0006,Fiber Installation,9035781612,yutikakaran@example.net,Bengaluru,Inactive
+Raagini Gopal,EMP0007,Network Support,9075035121,swadhwa@example.com,Delhi,On Leave
+Samesh Babu,EMP0008,Broadband Maintenance,9952871780,maanasviswanathan@example.net,Pune,Active
+Avi Chaudhuri,EMP0009,Network Support,9686329759,zkorpal@example.com,Hyderabad,Inactive
+Kiaan Boase,EMP0010,Broadband Maintenance,9045262418,bhavani70@example.org,Chennai,Active
+Amruta Bahri,EMP0011,Broadband Maintenance,9789689606,eesha61@example.com,Delhi,Inactive
+Amaira Nath,EMP0012,Network Support,9092973487,rmani@example.org,Mumbai,On Leave
+Ayush Sarraf,EMP0013,Field Support,9307142414,vasudha27@example.net,Chennai,Active
+Reyansh Savant,EMP0014,Field Support,9642987749,khegde@example.org,Chennai,Active
+Jasmit Baria,EMP0015,Fiber Installation,9642448764,wkaur@example.net,Bengaluru,Inactive
+Ryan Dara,EMP0016,Field Support,9806615952,ishwargrover@example.net,Kolkata,Active
+Vansha Wali,EMP0017,Fiber Installation,9720650453,sarrafyadavi@example.org,Mumbai,Inactive
+Gaurika Padmanabhan,EMP0018,Fiber Installation,9157762484,earora@example.org,Hyderabad,Active
+Madhavi Bhagat,EMP0019,Network Support,9875525065,ykohli@example.org,Hyderabad,Inactive
+Ryan Chaudhari,EMP0020,Broadband Maintenance,9974308240,rohan25@example.com,Hyderabad,On Leave
+Yadavi Shankar,EMP0021,Fiber Installation,9399214502,rbalasubramanian@example.net,Mumbai,Active
+Max Devi,EMP0022,SIM Activation,9034667101,karpetamanna@example.com,Kolkata,Inactive
+Anita Om,EMP0023,Field Support,9499888610,trivenimody@example.com,Ahmedabad,On Leave
+Anika Divan,EMP0024,Broadband Maintenance,9069987305,swamyjonathan@example.org,Hyderabad,Active
+Chasmum Mammen,EMP0025,Broadband Maintenance,9737111363,noah73@example.org,Hyderabad,On Leave
+Tamanna Borde,EMP0026,Network Support,9482446473,bahljanuja@example.com,Pune,Inactive
+Liam Tank,EMP0027,Field Support,9534335959,psrinivas@example.org,Mumbai,On Leave
+Zaitra Master,EMP0028,Network Support,9912528932,siya26@example.net,Bengaluru,Active
+Mitali Choudhury,EMP0029,Fiber Installation,9144775652,yatinnori@example.org,Pune,Inactive
+Maanas Sankaran,EMP0030,Broadband Maintenance,9388907867,yauvani81@example.org,Delhi,Inactive
+Kalpit Comar,EMP0031,Network Support,9804901832,bhagatzayan@example.net,Ahmedabad,Active
+Mitali Ganesan,EMP0032,Network Support,9013657492,contractormugdha@example.com,Kolkata,Inactive
+Ria Tandon,EMP0033,Broadband Maintenance,9057503617,diyamerchant@example.net,Delhi,Inactive
+Omya Dar,EMP0034,Broadband Maintenance,9383468419,dsharaf@example.org,Delhi,Active
+Ekbal Bassi,EMP0035,Network Support,9486213476,jasmit88@example.com,Kolkata,On Leave
+Maanav Narayanan,EMP0036,Broadband Maintenance,9546292307,bhavsardakshesh@example.org,Kolkata,Inactive
+Owen Morar,EMP0037,Fiber Installation,9072052986,kalabanik@example.net,Ahmedabad,On Leave
+Leena Yogi,EMP0038,Broadband Maintenance,9975204743,dev07@example.com,Ahmedabad,On Leave
+Victor Wagle,EMP0039,Broadband Maintenance,9553611737,nitara37@example.com,Pune,Active
+Anusha Bava,EMP0040,Network Support,9550419219,ksant@example.net,Bengaluru,Active
+Mohini Bhargava,EMP0041,SIM Activation,9456725230,ghoseadvay@example.net,Delhi,Active
+Jason Sahota,EMP0042,Field Support,9333556101,unnati59@example.net,Chennai,Inactive
+Turvi Sankar,EMP0043,Network Support,9057552972,owensridhar@example.com,Bengaluru,On Leave
+Edhitha Dugar,EMP0044,Field Support,9478660533,baghyawati94@example.org,Chennai,Active
+Jasmit Thakkar,EMP0045,Broadband Maintenance,9291030426,kalaudarsh@example.net,Kolkata,On Leave
+Waida Memon,EMP0046,Network Support,9820353618,sanetanveer@example.org,Ahmedabad,On Leave
+Ishanvi Pall,EMP0047,Network Support,9009172708,dalbir59@example.com,Mumbai,On Leave
+Ekansh Konda,EMP0048,SIM Activation,9546732155,kalitaurvashi@example.net,Delhi,Inactive
+Anvi Jha,EMP0049,SIM Activation,9350543742,liam92@example.org,Kolkata,Inactive
+Lipika Korpal,EMP0050,Broadband Maintenance,9283957791,teerthjohal@example.net,Pune,On Leave
+Anusha Ramachandran,EMP0051,SIM Activation,9557470642,stak@example.com,Delhi,On Leave
+Oeshi Kade,EMP0052,Network Support,9864029287,adwetalad@example.net,Hyderabad,Active
+Mugdha Ganesh,EMP0053,Broadband Maintenance,9274511376,lchadha@example.org,Chennai,On Leave
+Watika Rao,EMP0054,Network Support,9507166030,chanaanay@example.com,Mumbai,Active
+Liam Sane,EMP0055,Network Support,9783303836,balianthony@example.net,Ahmedabad,Active
+Dalbir Chaudhary,EMP0056,Broadband Maintenance,9495826034,elijah62@example.org,Mumbai,Active
+Yachana Borah,EMP0057,Broadband Maintenance,9135178540,shivanshbuch@example.org,Mumbai,Inactive
+Harish Sodhi,EMP0058,SIM Activation,9387294360,vermaodika@example.net,Hyderabad,On Leave
+Nidhi Vala,EMP0059,Broadband Maintenance,9655553156,mason88@example.com,Kolkata,On Leave
+Ishani Yadav,EMP0060,Broadband Maintenance,9162648319,bandra@example.com,Chennai,On Leave
+Pavani Pillai,EMP0061,Broadband Maintenance,9321877678,dalbirdhar@example.org,Ahmedabad,Active
+Qasim Thaker,EMP0062,Fiber Installation,9085391900,gokhaleodika@example.org,Mumbai,Active
+Daksha Boase,EMP0063,Network Support,9859655390,kritikadhaliwal@example.com,Delhi,Inactive
+Yoshita Ranganathan,EMP0064,Field Support,9541055222,tanishbasu@example.net,Ahmedabad,Inactive
+Nidhi Sabharwal,EMP0065,Field Support,9947888854,daramekhala@example.net,Delhi,Active
+Dalbir Naik,EMP0066,SIM Activation,9763442140,esami@example.com,Hyderabad,Inactive
+Anjali Lad,EMP0067,SIM Activation,9555648437,drajagopalan@example.com,Kolkata,On Leave
+Kiaan Ravel,EMP0068,Network Support,9772283338,ktata@example.com,Mumbai,Active
+Alexander Banik,EMP0069,SIM Activation,9189421959,narulagauri@example.net,Bengaluru,Active
+Ishanvi Viswanathan,EMP0070,Fiber Installation,9505401965,birguneet@example.net,Mumbai,Inactive
+Henry Kothari,EMP0071,Broadband Maintenance,9327921202,liladewan@example.org,Bengaluru,Inactive
+Jason Dixit,EMP0072,Broadband Maintenance,9382117020,ikbal97@example.com,Ahmedabad,Inactive
+Adya Bir,EMP0073,SIM Activation,9035475999,ekanichada@example.com,Pune,Active
+Vanya Pradhan,EMP0074,Broadband Maintenance,9457061807,uranganathan@example.org,Kolkata,Inactive
+Jacob Devi,EMP0075,Fiber Installation,9438918575,jbala@example.org,Kolkata,Active
+Ekta Sahni,EMP0076,Network Support,9194956323,vasudha45@example.com,Chennai,Inactive
+Prisha Minhas,EMP0077,SIM Activation,9813871445,aishani71@example.net,Bengaluru,Inactive
+Damini Puri,EMP0078,SIM Activation,9417156861,divanria@example.org,Bengaluru,Inactive
+Yauvani Nayar,EMP0079,Network Support,9806419270,maxtandon@example.org,Hyderabad,Active
+Rohan Karan,EMP0080,Broadband Maintenance,9438930187,janujatandon@example.com,Hyderabad,On Leave
+Brinda Pandit,EMP0081,Broadband Maintenance,9020033910,pushtimagar@example.com,Pune,Active
+Ijaya Ravel,EMP0082,Fiber Installation,9885529863,qprabhakar@example.com,Ahmedabad,Inactive
+Edhitha Srinivasan,EMP0083,SIM Activation,9638960950,sanghagauri@example.org,Chennai,Active
+Gaurangi Varty,EMP0084,Fiber Installation,9941355448,aryakhurana@example.net,Kolkata,Active
+Harita Padmanabhan,EMP0085,Field Support,9806484159,chakradevkannan@example.org,Hyderabad,Active
+Unni Savant,EMP0086,Fiber Installation,9061557607,dharunni@example.org,Pune,Inactive
+Ryan Srinivas,EMP0087,Field Support,9221782293,vbrahmbhatt@example.org,Chennai,Inactive
+Unnati Bains,EMP0088,SIM Activation,9526161367,fchakrabarti@example.org,Chennai,Inactive
+Abha Chaudhry,EMP0089,Network Support,9730244882,hemani84@example.org,Bengaluru,Inactive
+Raghav Kuruvilla,EMP0090,Field Support,9129960529,aarini92@example.org,Pune,Active
+Geetika Radhakrishnan,EMP0091,Field Support,9129272408,bvenkataraman@example.com,Ahmedabad,Active
+Aadhya Singhal,EMP0092,Network Support,9671738517,gparekh@example.net,Chennai,Inactive
+Kai Rattan,EMP0093,Network Support,9030764208,sarthakbora@example.org,Bengaluru,On Leave
+Quincy Guha,EMP0094,SIM Activation,9580718358,atighosh@example.net,Kolkata,Active
+Priya Kala,EMP0095,SIM Activation,9169572504,irandhawa@example.net,Kolkata,Active
+Amruta Deo,EMP0096,Field Support,9030257801,rachitsama@example.net,Bengaluru,Inactive
+Daksha Tandon,EMP0097,Network Support,9561458454,anushasami@example.com,Kolkata,Inactive
+Bahadurjit Nori,EMP0098,SIM Activation,9602178339,chauhanhemangini@example.org,Hyderabad,Active
+Bakhshi Raghavan,EMP0099,Broadband Maintenance,9500247295,ravellucky@example.org,Delhi,Active
+Vanya Bobal,EMP0100,Broadband Maintenance,9251488773,karnikfaqid@example.org,Mumbai,On Leave

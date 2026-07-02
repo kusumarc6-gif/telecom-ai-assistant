@@ -1,0 +1,21 @@
+plan_name,service_type,monthly_price,data_limit_gb,validity_days,speed_mbps,voice_minutes,sms_limit,status
+Basic 199,Mobile,199,2.0,28,,Unlimited,100.0,Active
+Value 249,Mobile,249,3.0,28,,Unlimited,100.0,Active
+Smart 299,Mobile,299,2.0,30,,Unlimited,100.0,Active
+Unlimited 399,Mobile,399,3.0,28,,Unlimited,100.0,Active
+5G Max 499,Mobile,499,4.0,28,,Unlimited,100.0,Active
+Entertainment 599,Mobile,599,5.0,28,,Unlimited,100.0,Active
+Family 699,Mobile,699,6.0,30,,Unlimited,100.0,Active
+Premium 799,Mobile,799,8.0,30,,Unlimited,100.0,Active
+Elite 999,Mobile,999,10.0,30,,Unlimited,100.0,Active
+Business 1499,Mobile,1499,15.0,30,,Unlimited,100.0,Active
+Fiber 499,Broadband,499,,30,40.0,N/A,,Active
+Fiber 699,Broadband,699,,30,100.0,N/A,,Active
+Fiber 799,Broadband,799,,30,150.0,N/A,,Active
+Fiber 999,Broadband,999,,30,200.0,N/A,,Active
+Fiber 1499,Broadband,1499,,30,300.0,N/A,,Active
+Fiber 1999,Broadband,1999,,30,500.0,N/A,,Active
+Fiber 2499,Broadband,2499,,30,1000.0,N/A,,Active
+Enterprise 2999,Enterprise,2999,,30,500.0,Unlimited,,Active
+Enterprise 4999,Enterprise,4999,,30,1000.0,Unlimited,,Active
+Enterprise 9999,Enterprise,9999,,30,2000.0,Unlimited,,Active

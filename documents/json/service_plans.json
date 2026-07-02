@@ -1,0 +1,16 @@
+{
+  "plans": [
+    {
+      "name": "Basic",
+      "price": 299,
+      "validity": "28 Days",
+      "data": "1GB/day"
+    },
+    {
+      "name": "Premium",
+      "price": 599,
+      "validity": "56 Days",
+      "data": "2GB/day"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Telecom Network Troubleshooting Guide
+
+1. Restart the router.
+2. Check signal strength.
+3. Verify SIM activation.
+4. Confirm broadband cable connections.
+5. Check for network outages.
+6. Contact customer support if the issue persists.
+7. Perform speed tests.
+8. Restart the modem every 24 hours.

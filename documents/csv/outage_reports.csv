@@ -1,0 +1,301 @@
+tower_id,outage_type,affected_area,start_time,end_time,outage_status,root_cause
+87,Network Congestion,North Zone,2026-03-25 09:51:26,2026-03-25 16:51:26,Resolved,Similique quae architecto suscipit aliquam corporis consequuntur inventore excepturi adipisci.
+68,Weather Impact,North Zone,2026-03-16 08:44:13,2026-03-16 19:44:13,Resolved,Ducimus voluptates odio sequi quas natus vitae qui ipsam fugiat ea.
+44,Software Upgrade,West Zone,2025-09-19 22:34:37,2025-09-20 05:34:37,Resolved,Dolor accusamus aliquid numquam non.
+31,Weather Impact,West Zone,2025-07-05 11:50:36,2025-07-05 18:50:36,Resolved,Culpa asperiores adipisci animi ducimus rem.
+13,Network Congestion,North Zone,2026-03-18 06:02:32,,Ongoing,Eveniet dolorem fugit et voluptates doloribus.
+98,Power Failure,East Zone,2026-06-27 07:58:41,2026-06-27 12:58:41,Resolved,Qui in amet eveniet tempora.
+70,Power Failure,East Zone,2025-12-27 04:20:00,2025-12-27 08:20:00,Resolved,Et culpa reprehenderit facere corrupti expedita omnis.
+27,Hardware Failure,Central Zone,2025-12-21 02:07:25,2025-12-21 03:07:25,Resolved,Quam sapiente in atque nulla quos a.
+43,Weather Impact,South Zone,2026-05-09 22:34:52,,Ongoing,Molestiae corrupti corrupti totam a quos eius.
+65,Software Upgrade,South Zone,2026-02-13 19:19:45,,Ongoing,Nisi ratione sint cumque error voluptatibus nihil consectetur sunt minima.
+74,Fiber Cut,South Zone,2025-10-19 03:52:11,2025-10-19 06:52:11,Resolved,Possimus temporibus voluptatem cupiditate quis consequuntur omnis earum.
+77,Network Congestion,East Zone,2026-05-20 08:34:21,2026-05-20 15:34:21,Resolved,Impedit molestias veniam quam tempora quia aperiam.
+89,Power Failure,South Zone,2025-10-09 09:14:12,2025-10-09 16:14:12,Resolved,Porro consequuntur asperiores totam aut autem libero perspiciatis.
+99,Network Congestion,West Zone,2026-05-02 12:24:46,2026-05-02 22:24:46,Resolved,Mollitia praesentium similique debitis eligendi dicta voluptatum quia.
+20,Fiber Cut,East Zone,2025-12-25 05:53:16,,Ongoing,Nesciunt porro doloremque sit quae inventore quis quis neque.
+46,Fiber Cut,Central Zone,2026-03-12 19:46:04,,Ongoing,Delectus atque vel quidem totam quibusdam nesciunt saepe quidem.
+45,Fiber Cut,North Zone,2025-10-20 03:43:34,,Ongoing,Facilis illo expedita consequuntur quas voluptatibus tenetur.
+54,Weather Impact,East Zone,2026-03-01 10:56:07,,Ongoing,Quos mollitia fugiat quos molestiae impedit recusandae odit.
+39,Hardware Failure,West Zone,2026-03-30 22:42:03,,Ongoing,Est cumque reiciendis deleniti blanditiis dolore placeat.
+37,Fiber Cut,North Zone,2025-11-22 06:07:59,2025-11-22 13:07:59,Resolved,Ratione doloremque ipsam porro tempore a numquam quidem vel architecto.
+83,Software Upgrade,East Zone,2026-02-04 08:42:12,2026-02-04 17:42:12,Resolved,Officia magni voluptas quisquam quasi ut cupiditate corporis.
+82,Network Congestion,East Zone,2025-08-05 09:01:58,,Ongoing,Quo illo commodi vel odio.
+77,Network Congestion,North Zone,2026-02-10 00:26:52,,Ongoing,Sequi nobis ea aut culpa fugiat iure neque repudiandae numquam.
+3,Weather Impact,Central Zone,2025-07-06 20:37:25,2025-07-06 21:37:25,Resolved,Suscipit sunt ex iste tenetur asperiores dolor consequuntur iste dignissimos occaecati.
+12,Fiber Cut,North Zone,2025-07-25 05:44:04,2025-07-25 12:44:04,Resolved,Officia aliquam voluptates esse sed maiores.
+29,Fiber Cut,South Zone,2025-10-24 19:04:44,2025-10-24 22:04:44,Resolved,Et inventore veritatis perspiciatis beatae.
+69,Hardware Failure,South Zone,2025-09-07 23:34:49,2025-09-08 06:34:49,Resolved,Iusto neque minima reprehenderit deleniti illum neque veniam corrupti perferendis.
+41,Network Congestion,South Zone,2026-01-24 00:06:16,2026-01-24 04:06:16,Resolved,Perferendis vitae ipsum dolorum ab.
+58,Network Congestion,North Zone,2025-09-10 13:16:42,2025-09-10 23:16:42,Resolved,Id molestiae aliquid ut vero possimus reprehenderit tempore sunt fuga.
+52,Network Congestion,South Zone,2026-05-10 02:29:01,2026-05-10 10:29:01,Resolved,Aliquid ad exercitationem iure ipsam sequi placeat.
+30,Fiber Cut,North Zone,2025-12-21 06:43:55,2025-12-21 15:43:55,Resolved,Saepe facilis praesentium distinctio magni dolorum soluta tenetur optio.
+74,Power Failure,West Zone,2026-06-02 07:04:54,,Ongoing,Unde minima cupiditate autem sequi nobis eveniet corrupti sed.
+14,Software Upgrade,Central Zone,2026-05-15 05:57:37,2026-05-15 09:57:37,Resolved,Cumque qui eveniet laudantium deserunt eveniet laudantium.
+6,Fiber Cut,East Zone,2026-01-09 01:50:26,2026-01-09 02:50:26,Resolved,Veritatis amet nulla ullam assumenda iure tenetur omnis architecto.
+95,Hardware Failure,Central Zone,2026-06-14 19:30:19,2026-06-15 04:30:19,Resolved,Eveniet id consequuntur quae eius eligendi voluptatem ratione expedita doloribus.
+64,Power Failure,Central Zone,2026-01-08 22:50:10,,Ongoing,Accusamus voluptate repellendus quasi cum dolorum consectetur incidunt corrupti laborum tenetur.
+10,Power Failure,North Zone,2025-09-01 15:36:10,2025-09-01 17:36:10,Resolved,Nesciunt optio libero distinctio explicabo nesciunt nemo soluta.
+47,Software Upgrade,East Zone,2026-02-20 23:39:59,2026-02-21 04:39:59,Resolved,Quo dolorem rerum magni et a.
+68,Hardware Failure,Central Zone,2025-08-15 21:27:25,2025-08-16 04:27:25,Resolved,Ex quia enim beatae.
+91,Software Upgrade,West Zone,2026-04-09 04:06:24,2026-04-09 05:06:24,Resolved,Tempore incidunt sunt incidunt unde est sequi.
+86,Power Failure,Central Zone,2025-07-07 01:33:10,2025-07-07 10:33:10,Resolved,Tempore voluptatum quod enim labore delectus veniam.
+5,Network Congestion,South Zone,2026-04-04 13:16:05,,Ongoing,Rerum recusandae suscipit ipsum unde facere quo.
+19,Network Congestion,South Zone,2026-06-22 19:10:05,2026-06-23 05:10:05,Resolved,Pariatur quaerat suscipit sed laboriosam nihil sed dolores laudantium.
+20,Software Upgrade,West Zone,2025-09-08 13:19:08,2025-09-08 19:19:08,Resolved,Reiciendis ea iusto libero sapiente natus quos dolorum incidunt perspiciatis.
+46,Power Failure,East Zone,2026-04-21 01:36:19,2026-04-21 07:36:19,Resolved,Quidem laborum doloremque debitis quam veniam suscipit cumque nostrum.
+67,Software Upgrade,Central Zone,2026-01-13 00:09:46,,Ongoing,Dolorum velit praesentium distinctio nihil atque minus minus.
+16,Fiber Cut,Central Zone,2025-06-30 17:47:53,2025-06-30 23:47:53,Resolved,Delectus sequi est mollitia libero accusantium neque architecto consectetur repellendus.
+94,Network Congestion,East Zone,2026-04-13 13:46:38,,Ongoing,Saepe tempore alias vel blanditiis libero iste expedita quisquam libero.
+95,Hardware Failure,North Zone,2025-12-22 10:51:58,,Ongoing,Blanditiis voluptatem perspiciatis aliquid.
+29,Power Failure,North Zone,2026-03-07 10:10:45,2026-03-07 16:10:45,Resolved,Odio libero sunt neque doloremque quas quis rem nemo saepe in.
+93,Fiber Cut,South Zone,2026-05-30 04:01:58,,Ongoing,Nihil blanditiis ratione pariatur sint sequi minima et et hic.
+90,Fiber Cut,North Zone,2026-04-21 09:20:31,2026-04-21 20:20:31,Resolved,Quia eveniet quam corrupti minus corrupti autem.
+76,Weather Impact,South Zone,2025-07-02 13:19:09,2025-07-02 19:19:09,Resolved,Exercitationem numquam sed magnam officiis iure explicabo cumque porro.
+49,Power Failure,East Zone,2026-05-10 03:26:20,2026-05-10 09:26:20,Resolved,Quam fuga voluptatibus nihil consequatur fuga distinctio non.
+31,Network Congestion,East Zone,2026-05-25 02:15:26,2026-05-25 03:15:26,Resolved,Ratione voluptatem aut laborum.
+57,Software Upgrade,East Zone,2026-01-31 04:19:45,2026-01-31 15:19:45,Resolved,Maiores facere quasi qui omnis vitae repellendus.
+4,Fiber Cut,South Zone,2026-05-08 23:44:56,2026-05-09 02:44:56,Resolved,At nemo aspernatur iure nam assumenda ipsa ipsa necessitatibus.
+64,Weather Impact,North Zone,2025-08-20 04:21:52,,Ongoing,Commodi impedit facilis quibusdam nisi soluta mollitia cumque commodi aliquid.
+29,Fiber Cut,Central Zone,2025-08-01 08:46:58,2025-08-01 13:46:58,Resolved,Architecto distinctio quod beatae animi excepturi distinctio natus.
+9,Network Congestion,West Zone,2025-08-25 15:29:59,2025-08-25 21:29:59,Resolved,Saepe possimus repellendus saepe iure voluptates sapiente iure.
+6,Fiber Cut,Central Zone,2025-08-11 08:11:32,2025-08-11 13:11:32,Resolved,Earum voluptatem nam laborum aspernatur placeat asperiores a blanditiis nostrum.
+44,Software Upgrade,South Zone,2025-11-15 17:31:35,2025-11-15 22:31:35,Resolved,Doloribus enim ex culpa culpa ad fugiat sunt ducimus.
+95,Fiber Cut,Central Zone,2025-09-24 10:15:31,2025-09-24 11:15:31,Resolved,Placeat cum eius asperiores sunt eaque unde nemo dicta itaque.
+16,Hardware Failure,North Zone,2026-06-10 10:57:43,,Ongoing,Quibusdam suscipit autem debitis sunt tenetur ea quisquam dolorum minima nemo.
+90,Network Congestion,North Zone,2026-03-23 07:13:47,2026-03-23 12:13:47,Resolved,Exercitationem maiores earum velit eum.
+26,Power Failure,West Zone,2026-04-07 13:24:06,2026-04-07 14:24:06,Resolved,Ab adipisci tenetur iste reprehenderit.
+27,Hardware Failure,West Zone,2025-08-04 06:36:50,,Ongoing,Enim quos consequuntur inventore fuga doloremque possimus quidem velit.
+2,Software Upgrade,East Zone,2025-11-15 09:01:04,,Ongoing,Delectus pariatur esse voluptas facere suscipit.
+57,Software Upgrade,West Zone,2025-08-15 22:38:06,2025-08-16 03:38:06,Resolved,Architecto laboriosam veritatis est inventore nemo blanditiis.
+23,Network Congestion,East Zone,2025-09-11 13:04:29,2025-09-11 18:04:29,Resolved,Nisi tempore illo ullam provident.
+85,Network Congestion,Central Zone,2026-03-09 04:31:32,2026-03-09 06:31:32,Resolved,Debitis esse reiciendis quis deserunt.
+19,Network Congestion,East Zone,2025-11-12 02:22:05,,Ongoing,Itaque officiis eaque non nihil quia dolore maiores repudiandae eveniet.
+32,Hardware Failure,North Zone,2026-02-18 12:01:41,2026-02-18 15:01:41,Resolved,Explicabo odio corporis iure voluptatibus tempore nesciunt.
+40,Weather Impact,North Zone,2026-04-11 12:13:52,,Ongoing,Quis nisi cupiditate quisquam itaque voluptatibus saepe.
+15,Power Failure,West Zone,2026-05-25 15:13:06,,Ongoing,Tempora aspernatur nemo quae aliquid quis nam non maiores.
+74,Fiber Cut,East Zone,2026-03-01 19:00:27,,Ongoing,Facilis consequuntur exercitationem unde nulla iusto numquam labore.
+33,Weather Impact,West Zone,2026-05-25 02:53:27,,Ongoing,Impedit repudiandae iste nulla perferendis.
+100,Fiber Cut,East Zone,2026-01-13 00:34:59,2026-01-13 11:34:59,Resolved,Aut nobis voluptatibus magni deserunt explicabo totam rerum.
+77,Hardware Failure,East Zone,2026-05-15 14:58:28,,Ongoing,Esse perferendis veniam deserunt quidem.
+38,Power Failure,South Zone,2026-04-22 17:32:18,,Ongoing,Non eveniet cum repudiandae vitae ipsam itaque.
+78,Software Upgrade,North Zone,2026-03-28 10:43:54,2026-03-28 17:43:54,Resolved,Ipsum facilis dolorum impedit eligendi officiis nihil dignissimos optio.
+52,Power Failure,North Zone,2026-03-04 09:55:08,2026-03-04 19:55:08,Resolved,Molestias nihil sequi quaerat animi aut perferendis.
+38,Network Congestion,East Zone,2026-04-13 04:28:06,,Ongoing,Quisquam doloremque magni adipisci beatae saepe debitis ratione consequatur reiciendis.
+100,Network Congestion,North Zone,2025-08-27 18:35:12,2025-08-28 04:35:12,Resolved,Exercitationem laboriosam aspernatur blanditiis labore iste repudiandae voluptas delectus.
+54,Network Congestion,West Zone,2026-01-13 06:27:28,2026-01-13 15:27:28,Resolved,Tempore eum tempora soluta veritatis doloremque corporis.
+5,Hardware Failure,South Zone,2026-04-20 20:25:40,2026-04-21 00:25:40,Resolved,Minima vitae quidem exercitationem voluptate nesciunt autem qui.
+78,Software Upgrade,East Zone,2025-10-26 10:52:51,,Ongoing,Quo quisquam libero nobis vel.
+88,Software Upgrade,East Zone,2025-09-16 13:36:06,,Ongoing,Sint voluptatem placeat tempore quod.
+31,Software Upgrade,West Zone,2026-02-28 15:16:54,2026-03-01 03:16:54,Resolved,Minus amet mollitia totam dolore molestias consequatur.
+80,Software Upgrade,Central Zone,2025-12-05 08:45:48,,Ongoing,Esse nesciunt optio fugit accusantium.
+1,Weather Impact,North Zone,2026-02-13 04:16:36,2026-02-13 13:16:36,Resolved,Similique ad omnis aspernatur et ducimus maxime facilis eius itaque.
+27,Fiber Cut,Central Zone,2026-06-15 03:42:54,2026-06-15 12:42:54,Resolved,Dolorum quasi voluptatum aliquam animi facilis assumenda.
+20,Power Failure,South Zone,2026-03-03 21:26:28,2026-03-03 23:26:28,Resolved,Explicabo sint nihil similique repudiandae.
+16,Fiber Cut,North Zone,2026-01-30 03:51:57,2026-01-30 15:51:57,Resolved,Pariatur maxime ullam quo odit deserunt voluptas dicta in.
+40,Software Upgrade,West Zone,2025-08-01 07:19:51,,Ongoing,Impedit commodi vel nulla explicabo.
+89,Fiber Cut,North Zone,2026-06-03 08:00:32,2026-06-03 12:00:32,Resolved,Harum vitae maxime libero cum delectus laudantium repellat.
+88,Weather Impact,East Zone,2025-08-20 23:00:44,2025-08-21 02:00:44,Resolved,Nesciunt eveniet inventore pariatur eveniet placeat nesciunt ea saepe.
+22,Power Failure,North Zone,2026-05-03 19:47:56,2026-05-04 06:47:56,Resolved,Animi iusto voluptatem et odio debitis quas ipsam dolorum quam velit.
+6,Network Congestion,East Zone,2025-10-31 21:30:29,2025-11-01 08:30:29,Resolved,Architecto quae reiciendis soluta minima pariatur.
+57,Network Congestion,Central Zone,2025-12-01 09:23:52,2025-12-01 15:23:52,Resolved,Rem necessitatibus inventore animi esse quasi eius.
+86,Weather Impact,North Zone,2026-05-26 02:03:28,,Ongoing,Eum possimus consequuntur nulla occaecati.
+13,Fiber Cut,East Zone,2025-11-07 11:47:51,2025-11-07 19:47:51,Resolved,Necessitatibus molestias officiis eveniet esse.
+27,Fiber Cut,North Zone,2025-08-20 09:12:24,2025-08-20 11:12:24,Resolved,Deleniti accusamus asperiores ducimus nostrum temporibus.
+55,Software Upgrade,South Zone,2025-12-14 07:12:32,2025-12-14 19:12:32,Resolved,Ab impedit labore necessitatibus nesciunt incidunt.
+79,Network Congestion,North Zone,2026-05-19 07:04:14,,Ongoing,Quisquam facilis mollitia laudantium laborum neque.
+84,Software Upgrade,North Zone,2026-06-12 19:18:56,2026-06-13 00:18:56,Resolved,Aspernatur placeat esse similique eius nulla sit iusto repudiandae animi id.
+100,Network Congestion,Central Zone,2025-07-19 06:31:45,2025-07-19 17:31:45,Resolved,Sed dolore possimus delectus cumque praesentium assumenda quisquam cupiditate numquam.
+92,Software Upgrade,West Zone,2025-12-24 10:43:58,2025-12-24 15:43:58,Resolved,Laborum quo ipsam sed totam optio impedit.
+36,Software Upgrade,West Zone,2026-01-05 22:08:03,2026-01-06 05:08:03,Resolved,Repudiandae occaecati totam incidunt nobis.
+18,Network Congestion,West Zone,2025-07-18 17:22:40,2025-07-18 22:22:40,Resolved,Aspernatur nostrum possimus officiis laudantium optio quisquam nostrum voluptas at.
+63,Hardware Failure,East Zone,2026-02-17 18:35:16,,Ongoing,Amet animi enim aliquid placeat non eaque in voluptates consequatur.
+2,Hardware Failure,Central Zone,2026-05-08 22:32:17,2026-05-09 09:32:17,Resolved,Commodi dicta quibusdam nesciunt aliquam quaerat rerum aperiam hic unde.
+62,Weather Impact,Central Zone,2026-01-14 15:23:43,,Ongoing,Voluptas dolorem at minus similique odit dolorem.
+98,Network Congestion,South Zone,2025-11-14 07:04:39,2025-11-14 09:04:39,Resolved,Odio a blanditiis dolorem unde eveniet reiciendis sit ipsa.
+76,Power Failure,North Zone,2025-12-04 10:52:37,,Ongoing,Non reprehenderit assumenda aut doloremque officiis illum.
+51,Power Failure,West Zone,2025-12-28 01:57:33,2025-12-28 11:57:33,Resolved,Asperiores deserunt inventore praesentium culpa praesentium.
+79,Software Upgrade,West Zone,2026-04-22 20:34:00,2026-04-23 03:34:00,Resolved,Expedita corporis consequatur provident.
+53,Weather Impact,Central Zone,2026-03-31 22:56:59,2026-04-01 06:56:59,Resolved,Assumenda corporis laborum voluptas porro.
+72,Software Upgrade,East Zone,2026-03-28 05:04:52,2026-03-28 17:04:52,Resolved,Vitae enim totam vitae temporibus.
+93,Weather Impact,Central Zone,2025-10-04 00:54:35,2025-10-04 04:54:35,Resolved,Rerum odit molestiae nostrum laudantium voluptas nesciunt nesciunt amet provident.
+58,Hardware Failure,West Zone,2026-03-15 00:26:32,2026-03-15 01:26:32,Resolved,Occaecati perspiciatis explicabo sint dolore dicta accusamus vel commodi dicta.
+82,Network Congestion,Central Zone,2026-05-12 13:41:52,,Ongoing,Fugiat error tempore recusandae illum nemo.
+54,Hardware Failure,East Zone,2026-05-23 14:20:23,2026-05-24 00:20:23,Resolved,Ut voluptatum earum nam tenetur.
+14,Network Congestion,West Zone,2026-03-26 22:16:25,2026-03-27 06:16:25,Resolved,Ipsum sapiente esse atque ea dolore sunt doloribus aspernatur.
+44,Software Upgrade,West Zone,2026-01-20 16:14:57,2026-01-20 17:14:57,Resolved,Facere alias dolorum placeat nostrum nisi debitis quibusdam.
+54,Weather Impact,North Zone,2025-11-24 13:22:04,2025-11-24 14:22:04,Resolved,Nam recusandae in qui.
+42,Software Upgrade,Central Zone,2026-03-19 06:39:01,2026-03-19 17:39:01,Resolved,Enim perspiciatis doloremque optio adipisci consequatur a architecto totam in.
+9,Fiber Cut,Central Zone,2026-05-27 22:50:43,2026-05-28 00:50:43,Resolved,Minus voluptates delectus possimus velit aperiam voluptatibus sed enim.
+100,Weather Impact,North Zone,2026-05-02 11:00:27,,Ongoing,Quisquam maxime aspernatur vel velit.
+25,Weather Impact,Central Zone,2026-02-18 08:54:01,2026-02-18 10:54:01,Resolved,Inventore delectus ducimus voluptatem quidem.
+75,Weather Impact,North Zone,2026-01-04 08:10:11,2026-01-04 10:10:11,Resolved,Molestiae accusamus consectetur repellat ducimus optio voluptatum magnam suscipit libero.
+85,Power Failure,North Zone,2026-01-05 01:33:24,2026-01-05 05:33:24,Resolved,Labore natus dicta quae id esse quia similique.
+63,Weather Impact,Central Zone,2025-09-06 01:04:01,2025-09-06 11:04:01,Resolved,Unde a cupiditate animi ad.
+71,Fiber Cut,West Zone,2026-04-18 14:25:48,2026-04-18 23:25:48,Resolved,Deleniti aut dolores autem eius.
+43,Hardware Failure,North Zone,2025-10-28 22:48:45,2025-10-29 00:48:45,Resolved,Dicta soluta ducimus velit impedit.
+53,Network Congestion,South Zone,2026-05-10 02:01:27,2026-05-10 14:01:27,Resolved,Quisquam aperiam eos dolor numquam distinctio ab.
+49,Hardware Failure,Central Zone,2026-03-27 11:49:37,2026-03-27 12:49:37,Resolved,At est eius deleniti et ipsa explicabo numquam.
+46,Software Upgrade,East Zone,2026-06-16 21:26:58,2026-06-17 03:26:58,Resolved,Sunt quas nihil doloribus natus aliquid.
+86,Software Upgrade,North Zone,2025-08-16 11:53:37,2025-08-16 12:53:37,Resolved,Laborum iure exercitationem qui illo veniam saepe molestiae.
+67,Fiber Cut,East Zone,2026-06-02 03:37:29,2026-06-02 14:37:29,Resolved,Recusandae inventore corporis quibusdam aliquam voluptatum exercitationem cupiditate sit quae.
+36,Fiber Cut,South Zone,2025-08-30 16:06:46,2025-08-31 02:06:46,Resolved,Mollitia minima aliquid eum dolore voluptates.
+45,Software Upgrade,West Zone,2025-11-10 04:52:51,2025-11-10 14:52:51,Resolved,Magnam assumenda perferendis deleniti ab beatae deleniti mollitia ipsam assumenda.
+97,Hardware Failure,South Zone,2026-04-04 12:41:26,,Ongoing,Dignissimos nam minima delectus iusto dolores consequatur perferendis illum.
+19,Hardware Failure,North Zone,2025-11-07 18:05:00,2025-11-08 01:05:00,Resolved,Vitae provident debitis accusantium est non rerum.
+75,Network Congestion,Central Zone,2026-05-06 03:29:29,2026-05-06 07:29:29,Resolved,Architecto quis velit nam suscipit.
+74,Software Upgrade,West Zone,2025-08-10 15:34:30,,Ongoing,Commodi id occaecati voluptatibus iusto neque eos dolor.
+18,Fiber Cut,Central Zone,2026-02-22 00:01:19,2026-02-22 10:01:19,Resolved,Dolorum animi possimus nostrum laborum.
+2,Software Upgrade,East Zone,2025-10-15 18:57:45,2025-10-16 06:57:45,Resolved,Nisi rem praesentium accusantium deserunt velit cum sed.
+26,Hardware Failure,East Zone,2025-07-15 19:17:16,2025-07-16 02:17:16,Resolved,Praesentium sit quos dolor unde asperiores repellat ullam ducimus.
+21,Weather Impact,North Zone,2025-09-25 21:25:19,2025-09-26 01:25:19,Resolved,Vitae labore rem aspernatur eius pariatur.
+10,Fiber Cut,West Zone,2025-12-15 02:21:57,2025-12-15 07:21:57,Resolved,Culpa fugiat soluta occaecati ducimus numquam excepturi quaerat.
+76,Weather Impact,Central Zone,2025-09-21 13:48:38,2025-09-21 14:48:38,Resolved,Odit laborum laboriosam assumenda illo fugiat placeat.
+53,Hardware Failure,Central Zone,2025-10-27 04:10:11,2025-10-27 09:10:11,Resolved,Voluptatibus harum atque numquam vitae officia ullam magnam explicabo rem.
+69,Hardware Failure,Central Zone,2026-04-20 18:43:17,2026-04-21 01:43:17,Resolved,Dignissimos exercitationem maxime itaque rerum.
+86,Network Congestion,East Zone,2026-04-07 20:26:58,2026-04-08 06:26:58,Resolved,Dolore modi dolorum quo expedita quidem voluptatum aut nihil qui.
+24,Network Congestion,North Zone,2025-11-20 11:17:56,2025-11-20 19:17:56,Resolved,Reprehenderit optio optio recusandae dicta deleniti neque adipisci harum.
+26,Power Failure,West Zone,2026-05-09 11:52:12,2026-05-09 14:52:12,Resolved,Odit molestiae quia ab impedit id dolorum at magnam exercitationem.
+55,Software Upgrade,Central Zone,2026-04-07 19:10:41,2026-04-07 20:10:41,Resolved,Expedita inventore impedit possimus doloremque.
+40,Network Congestion,West Zone,2026-01-05 15:40:48,,Ongoing,Aperiam ipsam repellat tenetur quidem ad nam occaecati praesentium.
+31,Power Failure,Central Zone,2026-02-06 13:13:02,2026-02-06 22:13:02,Resolved,Repellendus necessitatibus consectetur veritatis totam.
+12,Weather Impact,Central Zone,2026-02-23 13:34:15,2026-02-23 23:34:15,Resolved,Qui ad quis maxime modi blanditiis vero.
+8,Power Failure,Central Zone,2025-07-03 13:07:31,2025-07-03 23:07:31,Resolved,Ut recusandae voluptatum quas animi iusto alias.
+57,Weather Impact,South Zone,2025-11-05 10:00:07,2025-11-05 19:00:07,Resolved,Magnam molestiae est labore necessitatibus praesentium ducimus sit at.
+40,Power Failure,North Zone,2025-12-29 00:54:43,2025-12-29 03:54:43,Resolved,Reiciendis animi dolorem totam incidunt.
+19,Power Failure,South Zone,2026-01-26 14:28:36,,Ongoing,Quibusdam praesentium optio occaecati aspernatur cum modi temporibus dolorem consequuntur.
+18,Network Congestion,Central Zone,2026-06-05 15:04:10,2026-06-05 16:04:10,Resolved,Perspiciatis aut omnis voluptatibus voluptates possimus.
+56,Fiber Cut,West Zone,2026-06-26 22:22:33,,Ongoing,Dolores voluptatibus dolorum necessitatibus laborum in.
+19,Power Failure,North Zone,2026-04-01 02:22:10,2026-04-01 09:22:10,Resolved,Asperiores consectetur fugit quo neque.
+11,Network Congestion,Central Zone,2026-01-30 06:35:25,2026-01-30 18:35:25,Resolved,Officia dolorum minus nesciunt pariatur.
+11,Hardware Failure,West Zone,2025-09-23 14:15:22,2025-09-23 23:15:22,Resolved,Et voluptatibus quia quidem sed veritatis dignissimos aliquam assumenda.
+6,Hardware Failure,North Zone,2025-10-11 04:44:37,,Ongoing,Consequuntur quia maxime magnam deleniti harum culpa veritatis optio repudiandae.
+18,Power Failure,South Zone,2025-12-14 09:27:16,2025-12-14 12:27:16,Resolved,Autem est cupiditate placeat molestiae accusamus tempora veritatis.
+38,Power Failure,West Zone,2026-03-21 13:15:18,2026-03-22 01:15:18,Resolved,Amet ut magnam quia eos id odio.
+32,Power Failure,West Zone,2025-08-12 13:39:54,2025-08-12 17:39:54,Resolved,Error necessitatibus inventore earum dolorem placeat autem.
+68,Hardware Failure,East Zone,2026-01-02 17:04:09,2026-01-02 19:04:09,Resolved,Pariatur ratione vel quia provident dicta incidunt.
+55,Hardware Failure,North Zone,2026-02-19 20:30:41,2026-02-19 21:30:41,Resolved,Ea laudantium dolorum fugit accusantium.
+26,Fiber Cut,West Zone,2026-06-15 15:08:16,2026-06-15 20:08:16,Resolved,Autem error impedit voluptate quia aperiam dolor vero voluptatibus sint.
+65,Fiber Cut,South Zone,2026-01-15 01:48:12,2026-01-15 12:48:12,Resolved,Veniam repellendus in cumque autem dignissimos modi modi ea.
+55,Hardware Failure,South Zone,2025-12-16 20:18:36,2025-12-17 01:18:36,Resolved,Sed sapiente debitis sapiente nulla officia consequatur dolorum.
+51,Power Failure,East Zone,2025-08-30 22:30:02,2025-08-31 02:30:02,Resolved,Minima asperiores tempore eveniet eius cumque eligendi.
+96,Hardware Failure,Central Zone,2025-09-12 21:25:25,2025-09-12 23:25:25,Resolved,Officia sit quis cumque libero nobis distinctio autem inventore quibusdam.
+24,Weather Impact,Central Zone,2026-04-10 16:06:35,,Ongoing,Libero asperiores id sunt nam id incidunt et delectus voluptates.
+71,Network Congestion,South Zone,2026-03-18 17:47:17,2026-03-19 02:47:17,Resolved,Repellat laborum provident ipsum sunt.
+90,Network Congestion,North Zone,2025-12-17 19:58:53,,Ongoing,Ut quod id reiciendis facere.
+71,Fiber Cut,West Zone,2025-09-06 18:28:28,2025-09-07 00:28:28,Resolved,Placeat cum nesciunt quas voluptatem ratione magnam deserunt expedita eum.
+58,Network Congestion,North Zone,2025-10-03 13:59:03,2025-10-03 17:59:03,Resolved,Tenetur placeat distinctio ipsa hic explicabo accusamus.
+77,Network Congestion,North Zone,2025-11-17 18:34:38,2025-11-17 19:34:38,Resolved,Voluptatum expedita itaque ea incidunt id nam.
+83,Hardware Failure,East Zone,2025-11-01 17:18:10,,Ongoing,Vero minus sed odio.
+20,Network Congestion,North Zone,2026-03-06 19:25:14,2026-03-07 01:25:14,Resolved,Labore sapiente explicabo quisquam culpa libero magni ipsa.
+83,Network Congestion,North Zone,2026-02-21 09:32:47,,Ongoing,Voluptatum corporis iure quidem nulla asperiores hic quod vitae adipisci architecto.
+92,Fiber Cut,North Zone,2025-09-24 16:31:39,2025-09-25 00:31:39,Resolved,Eius animi sequi ab corporis culpa.
+85,Network Congestion,South Zone,2025-12-07 12:45:11,2025-12-08 00:45:11,Resolved,Fugit error quos repudiandae incidunt.
+54,Weather Impact,East Zone,2025-09-06 06:13:09,2025-09-06 10:13:09,Resolved,Inventore animi quae ullam vitae repudiandae repellendus assumenda.
+76,Fiber Cut,North Zone,2026-06-08 14:03:12,2026-06-08 20:03:12,Resolved,Sit soluta occaecati aspernatur dolorem ex reiciendis adipisci id accusamus.
+93,Network Congestion,East Zone,2025-11-11 12:28:57,2025-11-11 23:28:57,Resolved,Aliquam odio dolores eos dicta ipsa tempora atque.
+74,Hardware Failure,East Zone,2026-05-02 21:25:48,2026-05-03 03:25:48,Resolved,Totam cum provident alias cupiditate ratione in officia deserunt.
+74,Fiber Cut,Central Zone,2026-03-17 20:28:24,2026-03-18 01:28:24,Resolved,Quis dolorum aliquam doloribus veniam temporibus nisi voluptates saepe saepe.
+6,Power Failure,West Zone,2026-04-20 14:47:04,2026-04-20 19:47:04,Resolved,Deserunt tempora voluptatum illo dignissimos natus adipisci aliquid totam.
+9,Power Failure,West Zone,2025-07-20 18:48:12,2025-07-20 19:48:12,Resolved,Itaque ipsum libero libero quaerat soluta quia quos itaque.
+58,Weather Impact,West Zone,2026-02-18 16:32:20,2026-02-19 01:32:20,Resolved,Maiores deserunt error repellendus in.
+31,Fiber Cut,East Zone,2026-03-18 05:01:10,2026-03-18 15:01:10,Resolved,Laboriosam non impedit quae pariatur.
+9,Software Upgrade,Central Zone,2026-05-25 13:13:16,2026-05-25 17:13:16,Resolved,Hic dolores doloremque sed dolore provident facere.
+11,Network Congestion,South Zone,2026-02-27 06:04:04,2026-02-27 12:04:04,Resolved,Facilis nisi possimus harum.
+19,Software Upgrade,Central Zone,2025-11-05 16:08:46,2025-11-06 00:08:46,Resolved,Voluptas labore doloremque neque totam omnis nesciunt quas.
+16,Weather Impact,South Zone,2026-02-10 13:41:36,2026-02-10 19:41:36,Resolved,Maiores culpa sapiente eos ducimus officia accusamus iure ipsa est.
+80,Power Failure,West Zone,2026-06-02 13:14:32,,Ongoing,Numquam neque itaque officia occaecati earum praesentium vero incidunt fugit.
+41,Fiber Cut,East Zone,2025-12-08 09:39:33,2025-12-08 21:39:33,Resolved,Officiis natus minima occaecati eligendi minima quo.
+37,Fiber Cut,South Zone,2026-04-11 22:19:56,2026-04-11 23:19:56,Resolved,Quia minus sapiente voluptatibus amet exercitationem voluptatibus.
+43,Network Congestion,East Zone,2026-01-29 07:39:32,,Ongoing,At vel maiores perspiciatis consequatur eum provident temporibus.
+51,Fiber Cut,West Zone,2025-12-30 22:45:24,2025-12-31 05:45:24,Resolved,Animi ea odit vitae asperiores.
+22,Power Failure,West Zone,2026-01-23 04:58:18,,Ongoing,Ut illo iusto quibusdam et libero distinctio.
+74,Power Failure,East Zone,2025-11-10 23:33:43,2025-11-11 03:33:43,Resolved,Laudantium repellat sit laborum quibusdam ducimus.
+13,Software Upgrade,South Zone,2026-03-12 06:03:09,2026-03-12 09:03:09,Resolved,Veritatis quo doloribus inventore tenetur iste.
+16,Software Upgrade,South Zone,2025-08-14 23:08:32,2025-08-15 04:08:32,Resolved,Voluptates occaecati in blanditiis consequuntur optio quod dolor facilis omnis.
+50,Power Failure,South Zone,2026-04-11 08:58:40,2026-04-11 19:58:40,Resolved,Error quae corporis impedit eveniet provident.
+20,Weather Impact,East Zone,2025-07-14 21:13:00,2025-07-15 02:13:00,Resolved,Vel dicta exercitationem eaque assumenda dolore perferendis.
+5,Hardware Failure,Central Zone,2025-10-01 21:44:38,2025-10-02 08:44:38,Resolved,Ad aliquid quibusdam occaecati alias iste.
+15,Power Failure,North Zone,2025-07-19 14:03:45,2025-07-19 18:03:45,Resolved,Dolore quisquam vero atque ut placeat.
+82,Hardware Failure,South Zone,2025-08-17 21:35:06,2025-08-18 09:35:06,Resolved,Autem eum incidunt quisquam voluptate.
+97,Weather Impact,North Zone,2025-07-07 08:46:00,,Ongoing,Accusamus aliquam similique eum a ducimus neque.
+55,Power Failure,East Zone,2026-05-30 20:08:35,2026-05-30 23:08:35,Resolved,Vitae numquam ratione quidem ducimus.
+28,Power Failure,South Zone,2025-10-24 15:20:07,2025-10-24 17:20:07,Resolved,Laborum deleniti tempore a culpa eligendi pariatur omnis fuga soluta.
+94,Software Upgrade,West Zone,2026-01-24 13:36:51,,Ongoing,Sint non fugiat ab iure amet nulla.
+81,Weather Impact,Central Zone,2025-08-19 23:17:40,,Ongoing,Dolor pariatur nisi neque repellat tempora doloribus fugiat magni ut ipsum.
+5,Hardware Failure,South Zone,2026-03-10 10:48:22,2026-03-10 22:48:22,Resolved,Recusandae nesciunt recusandae eius possimus explicabo modi.
+25,Network Congestion,North Zone,2026-02-01 20:57:47,,Ongoing,Exercitationem in quisquam provident tenetur harum nostrum explicabo facere.
+60,Hardware Failure,West Zone,2026-03-03 09:59:17,2026-03-03 10:59:17,Resolved,Occaecati dolore dolorem quis molestiae.
+17,Hardware Failure,South Zone,2026-02-24 16:58:33,,Ongoing,Asperiores odio asperiores omnis minus asperiores.
+46,Power Failure,West Zone,2026-04-01 01:39:08,,Ongoing,Autem quam qui eum exercitationem odit.
+76,Weather Impact,East Zone,2026-03-24 21:32:57,2026-03-25 02:32:57,Resolved,Beatae minus voluptatibus laudantium repellendus rem ab.
+86,Software Upgrade,West Zone,2025-09-15 14:34:06,2025-09-15 19:34:06,Resolved,Laborum voluptatibus expedita temporibus tenetur ad quidem.
+80,Hardware Failure,North Zone,2026-01-03 20:57:15,2026-01-04 06:57:15,Resolved,Hic delectus qui perspiciatis mollitia qui minima labore cumque cum laboriosam.
+49,Network Congestion,South Zone,2025-12-19 04:31:25,2025-12-19 07:31:25,Resolved,Perspiciatis voluptas voluptates hic quasi.
+10,Weather Impact,East Zone,2025-11-11 11:45:43,2025-11-11 19:45:43,Resolved,Praesentium aut suscipit accusantium repellendus blanditiis maiores eum.
+71,Hardware Failure,South Zone,2025-07-24 05:26:58,2025-07-24 17:26:58,Resolved,Ipsa quis perferendis atque aliquam quibusdam temporibus.
+27,Network Congestion,Central Zone,2026-06-22 09:29:15,2026-06-22 12:29:15,Resolved,Delectus sit voluptatibus eius temporibus odit ab quas sit ipsam.
+29,Hardware Failure,Central Zone,2025-09-08 23:25:07,,Ongoing,Harum nesciunt error dignissimos suscipit esse corporis odio voluptas inventore.
+17,Software Upgrade,South Zone,2025-08-03 05:06:20,,Ongoing,Consectetur blanditiis libero numquam debitis excepturi recusandae repellat ipsum ab.
+48,Network Congestion,Central Zone,2025-07-30 21:04:15,2025-07-31 03:04:15,Resolved,Illo quia veritatis nisi fugit quis fugit illo neque velit.
+47,Power Failure,South Zone,2026-01-18 05:15:22,2026-01-18 16:15:22,Resolved,Provident ut cum ea saepe cum veritatis.
+1,Software Upgrade,West Zone,2025-11-04 06:05:02,2025-11-04 16:05:02,Resolved,Laboriosam non rerum reprehenderit exercitationem neque iste quibusdam totam.
+5,Fiber Cut,Central Zone,2026-02-10 04:18:29,2026-02-10 05:18:29,Resolved,Sunt temporibus quod nobis optio unde vero aliquid ut.
+87,Hardware Failure,West Zone,2026-02-05 21:03:28,2026-02-05 23:03:28,Resolved,Fugit deleniti exercitationem illo repellat odit ut recusandae sapiente.
+94,Software Upgrade,Central Zone,2025-08-06 04:10:03,2025-08-06 06:10:03,Resolved,Voluptatibus accusamus eveniet eveniet consectetur.
+93,Weather Impact,West Zone,2025-09-08 20:08:47,2025-09-09 06:08:47,Resolved,Doloribus voluptatem quo vitae.
+3,Fiber Cut,Central Zone,2025-12-13 14:04:35,2025-12-14 02:04:35,Resolved,Enim ex quas exercitationem labore voluptatum.
+60,Hardware Failure,North Zone,2026-01-26 16:34:34,2026-01-26 18:34:34,Resolved,Quo consequatur vitae dicta quia reprehenderit.
+97,Fiber Cut,North Zone,2025-10-20 19:34:48,2025-10-20 22:34:48,Resolved,Nesciunt velit dicta numquam quod quo illo.
+17,Software Upgrade,South Zone,2025-10-29 08:03:21,2025-10-29 19:03:21,Resolved,Dignissimos repellendus exercitationem cupiditate totam consequatur sapiente natus non reprehenderit.
+23,Hardware Failure,North Zone,2026-05-13 14:39:28,2026-05-13 17:39:28,Resolved,Neque nihil esse occaecati consectetur.
+55,Software Upgrade,North Zone,2026-04-05 09:19:46,2026-04-05 20:19:46,Resolved,Quaerat dolorem ad modi cupiditate.
+57,Weather Impact,North Zone,2025-12-30 00:42:33,2025-12-30 02:42:33,Resolved,Laudantium quisquam amet magni nihil.
+86,Hardware Failure,West Zone,2025-12-20 19:59:35,2025-12-20 22:59:35,Resolved,Et suscipit molestiae incidunt reprehenderit non laudantium maiores pariatur minima.
+92,Software Upgrade,Central Zone,2026-02-21 14:09:03,2026-02-21 16:09:03,Resolved,Quam vel quia rerum ducimus praesentium labore dignissimos officia.
+27,Fiber Cut,West Zone,2026-06-23 22:47:57,2026-06-23 23:47:57,Resolved,Enim impedit voluptatum dignissimos modi.
+73,Power Failure,Central Zone,2025-12-05 15:31:19,2025-12-05 17:31:19,Resolved,Aliquid excepturi enim vel nostrum cupiditate consequuntur laudantium quas nihil.
+35,Power Failure,East Zone,2025-10-31 10:11:17,2025-10-31 21:11:17,Resolved,Fugit quidem non doloribus omnis.
+18,Fiber Cut,North Zone,2026-02-05 11:29:05,2026-02-05 14:29:05,Resolved,Odit quas reiciendis illo esse.
+39,Hardware Failure,South Zone,2026-03-17 16:49:44,2026-03-17 18:49:44,Resolved,Molestiae laudantium eaque quisquam eos.
+55,Hardware Failure,East Zone,2026-03-14 20:32:10,,Ongoing,Eveniet veritatis culpa aut veniam quis labore fugit sint.
+68,Weather Impact,Central Zone,2026-02-06 17:27:44,2026-02-06 19:27:44,Resolved,Cumque autem inventore libero fugiat eveniet consequuntur iste laboriosam dolore.
+93,Software Upgrade,South Zone,2026-05-29 23:03:08,2026-05-30 06:03:08,Resolved,Veritatis rem pariatur ab totam.
+14,Software Upgrade,East Zone,2026-06-06 00:11:41,2026-06-06 08:11:41,Resolved,Eos voluptatum sint maxime minima at dolores accusantium.
+29,Fiber Cut,West Zone,2026-03-15 08:42:59,2026-03-15 16:42:59,Resolved,Repellendus nemo harum eveniet fugiat.
+82,Network Congestion,North Zone,2025-12-21 20:37:00,2025-12-22 06:37:00,Resolved,Esse rem minima est amet hic ducimus debitis.
+40,Power Failure,Central Zone,2025-11-18 09:42:54,,Ongoing,Architecto beatae beatae optio ipsa ut officiis suscipit et iste odit.
+76,Hardware Failure,North Zone,2026-04-09 14:26:59,,Ongoing,Sed quo autem aliquam facilis.
+6,Network Congestion,North Zone,2025-12-05 16:34:04,,Ongoing,Possimus beatae sequi autem fuga aliquam est dolorem error odio.
+41,Software Upgrade,Central Zone,2025-12-28 18:15:19,,Ongoing,A odio eos labore nobis nemo.
+36,Power Failure,East Zone,2025-09-24 01:14:59,2025-09-24 09:14:59,Resolved,Deserunt nihil delectus maxime quas ea dolor ab quas dolore.
+86,Weather Impact,West Zone,2026-01-05 19:49:07,,Ongoing,Amet laborum molestias rerum praesentium laboriosam inventore dolorem.
+59,Software Upgrade,North Zone,2026-03-09 23:42:20,2026-03-10 04:42:20,Resolved,Aliquam voluptatibus rem distinctio possimus quas.
+31,Weather Impact,Central Zone,2025-08-05 05:51:17,2025-08-05 13:51:17,Resolved,Pariatur similique suscipit iste officia.
+16,Weather Impact,East Zone,2026-03-01 10:29:37,2026-03-01 21:29:37,Resolved,Alias omnis blanditiis aperiam incidunt doloribus.
+18,Network Congestion,Central Zone,2025-08-05 11:40:48,2025-08-05 14:40:48,Resolved,Veniam at ea dolorum illum dignissimos similique incidunt.
+11,Hardware Failure,East Zone,2026-01-28 14:44:33,,Ongoing,Eaque architecto nam voluptatibus amet dicta vel necessitatibus quia nisi.
+1,Power Failure,Central Zone,2025-09-17 18:29:55,,Ongoing,At dolorum neque eaque nam.
+68,Power Failure,South Zone,2025-08-03 02:46:02,2025-08-03 04:46:02,Resolved,Veritatis dolore maiores facilis.
+23,Software Upgrade,North Zone,2025-06-29 19:58:37,2025-06-30 04:58:37,Resolved,Quia officia sunt deleniti dolor placeat fuga quis occaecati soluta.
+38,Weather Impact,Central Zone,2025-11-30 13:49:44,,Ongoing,Distinctio officia cumque autem earum nam illum labore neque ea.
+16,Weather Impact,South Zone,2025-11-18 08:59:52,2025-11-18 10:59:52,Resolved,Impedit inventore tempora impedit laborum doloribus.
+77,Fiber Cut,South Zone,2026-03-07 00:33:22,2026-03-07 11:33:22,Resolved,Excepturi minima quis esse reprehenderit modi blanditiis quia impedit.
+60,Network Congestion,East Zone,2025-11-11 21:41:37,2025-11-12 08:41:37,Resolved,Quam dolorem eum tempore laudantium aperiam.
+23,Hardware Failure,North Zone,2026-06-06 23:41:46,,Ongoing,Voluptatem tempore voluptatem odit ratione architecto.
+80,Fiber Cut,Central Zone,2026-01-02 05:02:07,2026-01-02 06:02:07,Resolved,In velit perspiciatis enim esse perspiciatis.
+65,Hardware Failure,Central Zone,2026-04-21 11:08:26,2026-04-21 17:08:26,Resolved,Perferendis et magnam magnam soluta temporibus.
+8,Fiber Cut,West Zone,2026-01-18 03:46:07,2026-01-18 05:46:07,Resolved,Labore ducimus exercitationem ratione itaque ex illo.
+33,Power Failure,Central Zone,2026-06-28 23:41:42,2026-06-29 05:41:42,Resolved,Neque maiores iste possimus rerum.
+39,Power Failure,South Zone,2026-04-10 19:20:02,2026-04-10 20:20:02,Resolved,Quo odit fuga occaecati.
+77,Fiber Cut,South Zone,2025-08-07 20:42:27,2025-08-07 23:42:27,Resolved,Pariatur maxime id commodi dolore praesentium.
+4,Network Congestion,Central Zone,2026-06-05 01:28:55,2026-06-05 11:28:55,Resolved,Provident sed aperiam dolorum accusamus libero nostrum.
+28,Fiber Cut,North Zone,2026-02-19 08:01:36,2026-02-19 16:01:36,Resolved,Accusamus molestiae nam atque repellat necessitatibus asperiores.
+69,Hardware Failure,Central Zone,2026-05-29 12:50:46,,Ongoing,Nihil esse adipisci veniam aspernatur ducimus enim laboriosam.
+21,Software Upgrade,West Zone,2026-05-15 07:15:15,2026-05-15 09:15:15,Resolved,Sunt fugit quam labore voluptas ab fugit dignissimos nam.
+42,Power Failure,South Zone,2025-11-04 23:10:20,2025-11-05 10:10:20,Resolved,Aliquid id porro magnam enim quia corrupti.
+92,Software Upgrade,North Zone,2025-10-21 06:24:29,2025-10-21 07:24:29,Resolved,Debitis aliquid corporis sint vero quo ipsa.
+79,Network Congestion,North Zone,2026-04-06 10:06:08,2026-04-06 14:06:08,Resolved,Blanditiis voluptates reprehenderit suscipit expedita.
+31,Power Failure,Central Zone,2025-11-02 05:55:40,2025-11-02 07:55:40,Resolved,Impedit sapiente dicta assumenda laboriosam quae.
+84,Network Congestion,West Zone,2026-02-17 16:42:51,,Ongoing,Repellat neque voluptatem unde aspernatur repellat sit adipisci earum eos.
+60,Software Upgrade,South Zone,2026-01-06 02:12:00,2026-01-06 10:12:00,Resolved,Occaecati quis perferendis fugit.
